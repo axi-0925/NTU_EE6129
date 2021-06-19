@@ -1,1 +1,9 @@
 # NTU_EE6129
+
+WIRELESS COMMUNICATION 
+
+
+ASSIGNMENT2
+
+
+以及复习资料公式推导
